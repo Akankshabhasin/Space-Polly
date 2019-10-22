@@ -1,3 +1,3 @@
-## Space-Polly
+# Space-Polly
 
 ### NASA Space App Challenge
